@@ -5,3 +5,6 @@ at Université Libre de Bruxelles.
 Professors:
 - Tom Lenaerts
 - Ann Nowé
+
+Project Supervisor:
+- Elias Fernandez- Domingos
