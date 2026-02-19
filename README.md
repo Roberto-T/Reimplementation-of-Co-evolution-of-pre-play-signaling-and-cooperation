@@ -1,2 +1,7 @@
-# Reimplementation-of-Co-evolution-of-pre-play-signaling-and-cooperation
-Project for the Learning Dynamics course at Université Libre de Bruxelles.
+## About this project
+Project developed for the course "Learning Dynamics (INFO-F409)"
+at Université Libre de Bruxelles.
+
+Professors:
+- Tom Lenaerts
+- Ann Nowé
